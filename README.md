@@ -1,2 +1,0 @@
-# wrong.io
-wrong.io
